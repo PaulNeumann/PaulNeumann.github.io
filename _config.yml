@@ -84,3 +84,6 @@ defaults:
     values:
       layout: post
       read_time: true
+
+disqus:
+    shortname: paulneumann-github-io
