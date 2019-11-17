@@ -1,8 +1,9 @@
 ---
-title: Links I Use All. The. Time.
+title: Links
 layout: page
 permalink: /links/
 ---
+I use the following sites all. the. time.
 
 ### Oracle Database
 - [ORACLE-BASE](https://oracle-base.com/): Tim Hall's site is an **amazing** reference for Oracle Database-related information.
