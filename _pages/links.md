@@ -18,4 +18,4 @@ I use the following all. the. time.
 
 ### Oracle Database
 - [ORACLE-BASE](https://oracle-base.com/): Tim Hall's site is an **amazing** reference for Oracle Database-related information.
-- [SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html)
+- [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html): A free IDE for Oracle Database development and management.
