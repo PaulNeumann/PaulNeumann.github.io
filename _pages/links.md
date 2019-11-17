@@ -1,6 +1,7 @@
 ---
 title: Useful Links
 layout: page
+permalink: /links/
 ---
 
 ## Links I Use All. The. Time.
