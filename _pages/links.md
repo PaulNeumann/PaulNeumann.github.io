@@ -11,6 +11,7 @@ I use the following all. the. time.
 - [Notepad++](https://notepad-plus-plus.org/)
 - [Vagrant](https://www.vagrantup.com/)
 - [VirtualBox](https://www.virtualbox.org/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [WinMerge](http://winmerge.org/)
 
 ### Linux
