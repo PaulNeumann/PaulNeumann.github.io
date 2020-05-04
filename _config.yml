@@ -16,7 +16,7 @@
 lang: en-US
 title: "Paul Neumann"
 email:
-description: "Adventures of an IT Generalist"
+description: "Murphy Was an Optimist"
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://paulneumann.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
